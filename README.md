@@ -1,0 +1,4 @@
+readafter
+=========
+
+read link accumulator
