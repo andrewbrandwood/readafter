@@ -1,0 +1,32 @@
+{
+  "name": "readafter",
+  "version": "1.0.0",
+  "title": "ReadAfter",
+  "author": {
+    "name": "Andrew Brandwood",
+    "email": "andrew@brandwood.com",
+    "url": "http://www.brandwood.com/"
+  },
+  "licenses": [
+     {
+         "type": "MIT",
+         "url": "http://appendto.com/open-source-licenses"
+     },
+     {
+         "type": "GPLv2",
+         "url": "http://appendto.com/open-source-licenses"
+     }
+  ],
+  "dependencies": { "jquery": ">=1.7.1" },
+  "description": "jQuery plugin for blogs / articles. Adds a read after link to related article links and accumulates them at the bottom of the current article",
+  "keywords": [ "read links", "share" "jquery" ],
+  "homepage": "http://readafter.brandwood.com/",
+  "docs": "https://github.com/andrewbrandwood/readafter",
+  "demo": "http://readafter.brandwood.com/",
+  "download": "https://github.com/andrewbrandwood/readafter/archive/master.zip",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andrewbrandwood/readafter.git"
+  }
+  
+}

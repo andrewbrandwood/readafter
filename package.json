@@ -1,0 +1,13 @@
+{
+  "name": "readafter",
+  "version": "1.0.0",
+  "description": "jQuery plugin for blogs / articles. Adds a read after link to related article links and accumulates them at the bottom of the current article",
+  "url": "http://readafter.brandwood.com/",
+  "keywords": [ "jquery", "read links", "share" ],
+  "author": "Andrew Brandwood @_Branny (http://www.brandwood.com/)",
+  "homepage": "http://readafter.brandwood.com/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andrewbrandwood/readafter.git"
+  }
+}
