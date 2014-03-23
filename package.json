@@ -1,7 +1,7 @@
 {
   "name": "readafter",
   "version": "1.0.0",
-  "description": "jQuery plugin for blogs / articles. Adds a read after link to related article links and accumulates them at the bottom of the current article",
+  "description": "Read after is a link accumulator for those related links that you'd like to read, but want to finish reading the current article.",
   "url": "http://readafter.brandwood.com/",
   "keywords": [ "jquery", "read links", "share" ],
   "author": "Andrew Brandwood @_Branny (http://www.brandwood.com/)",
