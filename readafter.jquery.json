@@ -19,7 +19,7 @@
   ],
   "dependencies": { "jquery": ">=1.7.1" },
   "description": "jQuery plugin for blogs / articles. Adds a read after link to related article links and accumulates them at the bottom of the current article",
-  "keywords": [ "read links", "share", "jquery" ],
+  "keywords": [ "links", "share", "jquery" ],
   "homepage": "http://readafter.brandwood.com/",
   "docs": "https://github.com/andrewbrandwood/readafter",
   "demo": "http://readafter.brandwood.com/",
