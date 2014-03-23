@@ -1,7 +1,13 @@
-.read-after-link { color: #fff; background: #d90848; display: inline-block; padding: 0 5px; margin-left: 2px; vertical-align: middle; border-radius: 2px; cursor: pointer; transition: all .2s ease-in-out; }
-.read-after-link.disabled { background: #68ddb2; cursor: default; }
+.read-after-link { color: #d90848; display: inline-block; padding: 0 2px; vertical-align: top; border-radius: 2px; cursor: pointer; transition: all .2s ease-in-out; }
+.read-after-link em { display: inline-block; width: 10px; height: 17px; vertical-align: middle; background: transparent url(../images/readafter-logo-tab.png) 0 0 no-repeat; background-size: 10px 34px; }
+.read-after-link.disabled { background: #68ddb2; cursor: default; color: #fff; padding: 0 3px; }
+.read-after-link:hover { color: #7a0529; }
+.read-after-link:hover em { background-position: 0 -17px; } 
+.read-after-link.disabled:hover { background: #68ddb2; color: #fff; }
+.read-after-link.disabled em { display: none; }
 .read-after-link span { display: inline-block; margin-left: 2px; }
 .read-after-list { padding: 55px 10px 10px; background: #eee url(../images/readafter-logo.png) 10px 10px no-repeat; background-size: 150px 35px; }
 .read-after-list div { border-top: 1px solid #d90848; }
-.read-after-list a { display: inline-block; padding: 5px; color: #d90848; }
+.read-after-list a { display: inline-block; padding: 0; color: #d90848; }
+
 
