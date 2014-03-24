@@ -22,6 +22,12 @@ IMPLEMENTATION
 
 	});
 
+BOWER INSTALL
+-----------------
+ReadAfter can be installed via bower using the following install command.
+
+bower install readafter
+
 
 OPTIONS
 ---------
